@@ -1,0 +1,1 @@
+Symulacja wyścigów przeprowadzona na różnych torach. Losowane jest czy auto po ostatniej trasie nadaje sie do jazdy, a nastepnie wyrusza w wyscig. Moze sie rozbic, lub moze nastapic potrzeba zatankowania
